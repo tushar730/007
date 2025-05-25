@@ -53,7 +53,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: [tushar1911@outlook.com](mailto:tushar1911@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kazi-ahasan-habib-tushar-27aa22169/)
+- 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/kazi-ahasan-habib-tushar-27aa22169/)](https://www.linkedin.com/in/kazi-ahasan-habib-tushar-27aa22169/)
 
 
 ---
