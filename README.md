@@ -41,6 +41,17 @@
 
 ---
 
+### 🧪 Mini Python Projects
+
+> A few fun and educational tools I’ve built using pure Python — ideal for beginners and great for quick demos.
+
+- 🤖 [Python Automation Script](https://github.com/tushar730/Python-Automation-Script): A collection of useful scripts for organizing files, sending emails, and web scraping. Great intro to real-world automation.
+- 🎮 [Tic Tac Toe](https://github.com/tushar730/tic-tac-toe): Classic 2-player game built using Python’s `tkinter`. Clean interface and logical turn switching.
+- 🐍 [Snake Game](https://github.com/tushar730/Snake-Game): A retro-style snake game with keyboard control and increasing speed. Built with `pygame`.
+- 🧠 [Memory Game](https://github.com/tushar730/Memory-Game): Flip and match tiles to test memory. Built with `tkinter` using basic GUI logic.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -53,8 +64,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: [tushar1911@outlook.com](mailto:tushar1911@outlook.com)
-- 💼 LinkedIn: [(https://www.linkedin.com/in/kazi-ahasan-habib-tushar-27aa22169/)](https://www.linkedin.com/in/kazi-ahasan-habib-tushar-27aa22169/)
-
+- 💼 LinkedIn: [Kazi Ahasan Habib Tushar](https://www.linkedin.com/in/kazi-ahasan-habib-tushar-27aa22169/)
 
 ---
 
