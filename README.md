@@ -33,7 +33,7 @@
 
 ### 📌 Featured Projects
 
-- 🔍 [YOLO-SKYNet](https://github.com/yourusername/yolo-skynet) – Lightweight deep learning for small object detection in UAV imagery.
+- 🔍 [YOLO-SKYNet](https://github.com/dhuvisionlab/SKYNet.git) – Lightweight deep learning for small object detection in UAV imagery.
 - 🕵️ [Real-Time Network Packet Sniffer](https://github.com/yourusername/packet-sniffer) – Built using Scapy, Python sockets, and Isolation Forest.
 - 🤖 [AI Code Review Assistant](https://github.com/yourusername/code-review-assistant) – GPT-4-powered CLI tool to automate security reviews on GitHub.
 - 🍲 [Image-to-Recipe Generator](https://github.com/yourusername/recipe-generator) – Generate cooking recipes from food images using CLIP + GPT-4.
